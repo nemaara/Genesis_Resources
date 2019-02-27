@@ -1,6 +1,7 @@
 The following audio was composed by nemaara and is released under the CC BY-NC-ND v4.0 license:
 
 /music/waves.ogg
+/music/wind.ogg
 /music/wind3.ogg
 /music/greyskiesv1.ogg
 /music/greyskiesv2.ogg
