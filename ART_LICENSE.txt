@@ -1,0 +1,9 @@
+This list of art images in the add-on's "images" directory are drawn by nemaara and are licensed under CC BY-NC-ND v4.0
+all images in the directories (and any subdirectories):
+units/faeries/healer/
+units/demons/
+
+The next list of art images in the add-on's "images" directory are drawn by BTIssac and are licensed under CC BY-NC-SA v4.0
+all images in the directories:
+portraits/demons/
+portraits/faeries/
