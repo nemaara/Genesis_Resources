@@ -11,7 +11,6 @@ This list of art images in the add-on's "images" directory are drawn by nemaara 
 all images in the directories (and any subdirectories):
 units/faeries/
 units/demons/
-halo/
 
 This list of art images in the add-on's "images" directory are drawn by Iris Morelle (shadowm) and are licensed under CC BY-SA v4.0
 all images in the directories (and any subdirectories):
