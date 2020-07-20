@@ -1,3 +1,8 @@
+This list of art images in the add-on's "images" directory are drawn by nemaara and are licensed under CC BY-NC-ND v4.0
+all images in the directories (and any subdirectories):
+units/faeries/
+units/demons/
+
 All art images in the "terrain" directory are original work under
 the CC BY-SA v4 license.  The following images are not covered by this, for
 they are derivative work of GPL assets:
@@ -6,11 +11,6 @@ terrain/villages/primeval*.png
 terrain/villages/metal-tent.png
 terrain/despair/(all images in this directory)
 terrain/wall3/(all images in this directory)
-
-This list of art images in the add-on's "images" directory are drawn by nemaara and are licensed under CC BY-NC-ND v4.0
-all images in the directories (and any subdirectories):
-units/faeries/
-units/demons/
 
 This list of art images in the add-on's "images" directory are drawn by Iris Morelle (shadowm) and are licensed under CC BY-SA v4.0
 all images in the directories (and any subdirectories):
